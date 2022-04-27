@@ -1,6 +1,6 @@
 # CSS numbers grid animation
 
-> Exploring CSS animations and variables. Shows a grid of animated numbers
+> Using CSS animations and variables to animate a grid of numbers
 
 - [Live demo](https://css-numbers-grid-animation.rolandjlevy.repl.co/)
 - [Source code](https://replit.com/@RolandJLevy/css-numbers-grid-animation)
